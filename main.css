@@ -137,6 +137,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1ace7929', e
     top: 0;
 }
 */
+.wallpaper
+{
+    background: url(bg0.jpg);
+    
+}
+
 .shade2 {
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 100%;
@@ -384,7 +390,7 @@ h5 {
 	width: 100%;
 }
 .whitecontainer {
-    background: none repeat scroll 0 0 #097ecb;
+    background: none repeat scroll 0 0 #333300;
 	width: 100%;
 	padding: 80px 0;
 	overflow: auto;
@@ -396,7 +402,7 @@ h5 {
 	overflow: auto;
 }
 .parallax1 { 
-    background-image: url("../img/background2.jpg");
+    background-color: #663300;
     overflow: auto;
     padding: 80px 0;
     -webkit-background-size: cover;
@@ -491,7 +497,7 @@ h5 {
 	z-index: 110;
 	width: 100%;
 	text-align:center;
-    background-color: #0875bd ;
+    background-color: #663300 ;
 }
 .centered { text-align: center !important; }
 .knob { color: rgba(255,255,255,0.4) !important; }
@@ -558,7 +564,7 @@ h5 {
    margin: 20px 20px auto 0;
    font-weight: 700;
    text-transform: uppercase;
-   background-color: #262B30;
+   background-color: #ffa500;
    color: rgba(255, 255, 255, 1); 
    letter-spacing: 2px;
     border-radius: 3px;
@@ -567,8 +573,8 @@ h5 {
 }
 .button-reverse:hover {   
 	text-decoration: none; 
-	background-color: rgba(255,255,255,1);
-	color: #0b86c8;
+	background-color: #634a1d;
+	color: #ffffff;
 	padding: 15px 40px;
     border-radius: 3px;
     letter-spacing: 1px;
